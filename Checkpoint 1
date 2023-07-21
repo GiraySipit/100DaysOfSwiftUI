@@ -1,0 +1,4 @@
+let temperature = 24.0
+let fahrenheit = (temperature * 9)/5 + 32
+print("Celcius =" v\(temperature)"°C")
+print("Fahrenheit =" v\(fahrenheit)"°F")
