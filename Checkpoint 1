@@ -1,4 +1,0 @@
-let temperature = 24.0
-let fahrenheit = (temperature * 9)/5 + 32
-print(temperature, "°C")
-print(fahrenheit ,"°F")

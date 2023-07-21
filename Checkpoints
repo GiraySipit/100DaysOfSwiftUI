@@ -1,0 +1,12 @@
+Checkpoint 1
+
+let temperature = 24.0
+let fahrenheit = (temperature * 9)/5 + 32
+print(temperature, "°C")
+print(fahrenheit ,"°F")
+
+Checkpoint 2
+
+let albums = ["Freedom At Point Zero", "Earth", "Red Octopus", "Modern Times"]
+print(albums.count)
+print(Set(albums).count)
