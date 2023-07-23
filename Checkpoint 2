@@ -1,0 +1,10 @@
+let albums = ["Freedom At Point Zero", "Earth", "Red Octopus", "Modern Times"]
+
+print(albums.count)
+
+print(Set(albums).count)
+
+if username.isEmpty == true {
+
+    username = "Anonymous"
+}
